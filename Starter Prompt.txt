@@ -1,0 +1,10 @@
+Prompt 1:
+"I’m in Class 12 and interested in software development. Can you guide me on what courses or careers I should pursue?"
+
+Prompt 2:
+"I like coding and problem-solving but don’t know what career options are available in the IT field. Can you help me figure that out?"
+
+Prompt 3:
+"Based on my current skills in programming and web development, what path should I take to build a strong tech career?
+Prompt 4:
+"I'm not sure what career path to choose, but I know what I enjoy and what I'm good at. Can you help me explore my options?"
